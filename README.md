@@ -2,11 +2,11 @@
 
 2 modules for the moment:
 
-1. translator with GUI:
+1. **Translator with GUI**:**
   - It translates from multiple languates
   - It uses google engine
   
-2. English_to_CSV:
+2. **English_to_CSV**:
   - It creates a csv file with a list of words translated from English to Spanish.
   - The point of this is that while reading a book or an article, we can write words in a txt file.
   At the end of it we can generate a summary to be studied later.
