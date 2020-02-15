@@ -13,7 +13,7 @@
   - This is less good looking, but more interesting for the student.
   
 - Both Scripts work as executables on linux (to be done in windows is straight forward though).
-Remember to chmod +x them and change the paths in the .Desktop files
+Remember to chmod +x them and change the paths in the *.desktop* files.
 
 
 TO DOES: 
